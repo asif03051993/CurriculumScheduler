@@ -1,0 +1,29 @@
+CourseName,CourseID,Fractal,Credits,Type,PreRequisite(CourseID),MinSem,MaxSem,Elementary Course1,Elementary Course2
+Introduction to C and C++,CS2000,TRUE,3,CORE,NIL,1,2,,
+Introduction to Computer Networks,CS3001,TRUE,1,CORE,CS2000,4,5,,
+Detailed Study of Computer Networks ,CS3002,TRUE,2,CORE,CS3001,5,6,,
+Computer Networks,CS3020,FALSE,3,CORE,CS2000,4,6,CS3001,CS3002
+Computer Networks Lab,CS3021,TRUE,2,CORE,CS2000,4,6,,
+Wireless Network Systems,CS4200,TRUE,3,CORE,CS3020,4,5,,
+Introduction to SDN,CS5001,TRUE,1,FREE,CS4200,6,8,,
+Advanced SDN,CS5002,TRUE,2,FREE,CS5001,6,8,,
+SDN,CS5200,FALSE,3,FREE,CS4200,6,8,CS5001,CS5002
+Basics of NS-3,CS5003,TRUE,2,FREE,CS3020,6,8,,
+Topics in Networks,CS6220,FALSE,4,FREE,CS3020,6,8,,
+Formal Methods,CS6200,TRUE,3,FREE,NIL,7,8,,
+Social Psychology,LA3010,TRUE,3,LA,NIL,4,6,,
+Humour Psychology,LA3020,TRUE,3,LA,NIL,3,6,,
+Personality Psychology,LA4070,TRUE,3,LA,LA3010 ; LA3020,7,8,,
+Micro Economics,LA2010,TRUE,3,LA,NIL,2,3,,
+Macro Economics,LA3030,TRUE,3,LA,LA2010,3,4,,
+Visual Arts,LA4060,TRUE,3,LA,NIL,3,8,,
+Literature,LA2020,TRUE,3,LA,NIL,2,3,,
+Popular Fiction,LA4050,TRUE,3,LA,NIL,4,8,,
+Introduction to Data Structures,CS2010,TRUE,1,CORE,CS2000,2,3,,
+Advanced Data Structures 1,CS2020,TRUE,2,CORE,CS2010,2,3,,
+DATA STRUCTURES,CS2300,FALSE,3,CORE,CS2000,2,3,CS2010,CS2020
+Advanced Data Structures 2,CS2030,TRUE,1,CORE,CS2020,2,4,,
+Advanced Data Structures and Applications,CS2032,FALSE,4,CORE,CS2000,2,4,CS2300,CS2030
+DATA STRUCTURES LAB,CS2301,TRUE,2,CORE,CS2000,2,3,,
+Theory of Computation,CS5010,TRUE,3,FREE,NIL,4,5,,
+Design and Analysis of Algorithms,CS3040,TRUE,4,CORE,CS2000,3,4,,

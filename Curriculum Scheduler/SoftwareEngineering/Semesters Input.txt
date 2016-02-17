@@ -1,0 +1,32 @@
+Sem 1:
+  Core:  14 - 18
+  Free:  6 - 8
+  LA :   0 - 0
+Sem 2:
+   Core:  14 - 16 
+   Free:  4 - 6
+   LA:    2 - 4
+Sem 3:
+   Core:  8 - 10 
+   Free:  4 - 6
+   LA:    2 - 4
+Sem 4:
+  Core:  10 - 12
+  Free:  4 - 6
+  LA :   2 - 4
+Sem 5:
+   Core:  8 - 16 
+   Free:  4 - 6
+   LA:    2 - 4
+Sem 6:
+   Core:  9 - 12 
+   Free:  4 - 6
+   LA:    2 - 4
+Sem 7:
+   Core:  9 - 12 
+   Free:  4 - 6
+   LA:    2 - 4
+Sem 8:
+   Core:  9 - 12 
+   Free:  0 - 3
+   LA:    4 - 6
